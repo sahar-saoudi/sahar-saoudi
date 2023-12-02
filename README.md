@@ -48,5 +48,5 @@ Feel free to explore my repositories and connect with me. Let's collaborate and 
 
 
 [Website]: https://hey.saharsaoudi.repl.co/
-[LinkedIn]: www.linkedin.com/in/sahar-saoudi
+[LinkedIn]: https://www.linkedin.com/in/sahar-saoudi
 [Instagram]: https://www.instagram.com/notsaharr/
