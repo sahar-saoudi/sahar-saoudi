@@ -18,7 +18,6 @@ Feel free to explore my repositories and connect with me. Let's collaborate and 
 
 [<img align="left" alt="sahar-saoudi | Website" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Neoliberal_globe_logo.svg" />][Website]
 [<img align="left" alt="sahar-saoudi | LinkedIn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][LinkedIn]
-[<img align="left" alt="sahar-saoudi | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][Instagram]
 
 <br />
 <br />
@@ -49,4 +48,3 @@ Feel free to explore my repositories and connect with me. Let's collaborate and 
 
 [Website]: https://sahar-saoudi.github.io
 [LinkedIn]: https://www.linkedin.com/in/saharsaoudi/
-[Instagram]: https://www.instagram.com/notsaharr/
